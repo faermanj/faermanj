@@ -1,0 +1,5 @@
+"Well-Architected", para esta palestra, significa que nossos sistemas podem lidar com mais carga, são menos propensos a falhas e podem ser gerenciados com mais facilidade. Vamos abordar como avaliar a arquitetura de um sistema e maneiras de melhorá-la. Para muitos casos de uso do mundo real, parte da resposta é adotar o Kubernetes.
+
+O Kubernetes ajuda a gerenciar como as aplicações são executadas em muitos computadores, mas precisa ser configurado corretamente para funcionar bem. Vamos compartilhar dicas sobre como fazer isso, com foco em torná-lo seguro, eficiente e fácil de usar.
+
+Usaremos o Red Hat OpenShift como uma implementação de referência desses conceitos. O OpenShift se baseia no Kubernetes para oferecer mais recursos, especialmente para cenários empresariais. Ao analisar como o OpenShift é estruturado, podemos ver exemplos práticos de uma boa arquitetura em ação. Isso ajudará qualquer pessoa a melhorar seus próprios sistemas com Kubernetes. Junte-se a nós para aprender, compartilhar e aplicar esses princípios aos seus próprios projetos com Kubernetes.
