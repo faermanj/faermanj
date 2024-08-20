@@ -1,4 +1,4 @@
-I'm a software engineer at Red Hat and a career mentor at Caravana Cloud. As a member of the OpenShift team, I've been working to improve the developer experience of Kubernetes, especially on AWS. Previously, I built my experience working with global technology enterprises, including Amazon, JBoss, and Borland, as well as their customers and partners.
+I'm a software engineer at, Red Hat, and a career mentor. As a member of the OpenShift team, I've been working to improve the developer experience of Kubernetes, especially on AWS. Previously, I built my experience working with global technology enterprises, including Amazon, JBoss, and Borland, as well as their customers and partners.
 
 I also participate actively in developer communities, events, and publications worldwide. At Caravana Cloud, we help developers take the next step in their careers through collective practice in open-source projects. Besides working, I love exploring Catalonia, cycling, cooking, and playing a little guitar.
 
