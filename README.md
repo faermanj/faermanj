@@ -1,6 +1,5 @@
-I'm a software engineer at, Red Hat, and a career mentor. As a member of the OpenShift team, I've been working to improve the developer experience of Kubernetes, especially on AWS. Previously, I built my experience working with global technology enterprises, including Amazon, JBoss, and Borland, as well as their customers and partners.
-
-I also participate actively in developer communities, events, and publications worldwide. Since early in my career I've been helping developers take the next step in their careers, through collective practice in open-source projects. Besides working, I love exploring Catalonia, cycling, cooking, and playing a little guitar.
+I'm a software engineer, working at Red Hat OpenShift, and a career mentor. My current job is to improve the architecture and integration of our Kubernetes platform, especially on AWS. Previously, I built my experience working with global technology enterprises, including Amazon, JBoss, and Borland, as well as their customers and partners.
+I also participate actively in developer communities, events, and helping people take the next step in their careers in tech.  Besides working, I love exploring Catalonia, cycling, cooking, and playing a little guitar.
 
 <p align="center">
   <a href="https://github.com/faermanj?tab=repositories">
