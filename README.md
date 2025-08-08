@@ -1,4 +1,4 @@
-I'm a software engineer at Red Hat and a career mentor. As a member of the OpenShift team, my role is to improve our Kubernetes platform, especially regarding cloud providers' integration. Coming from the Brazilian Java community, I'm also a Quarkus enthusiast. Previously, I built my experience working with global technology enterprises, including Amazon, JBoss, and Borland, as well as their customers and partners. I also participate actively in developer communities, helping people take their next career steps. Besides working, I love exploring Catalonia, cycling, cooking, and playing a little guitar.
+I am a professional software engineer and career mentor, helping people succeed in technology jobs. My experience comes from working with global technology leaders — including Red Hat, Amazon, and Borland — as well as their customers and partners. I am also an active contributor to developer communities, publications, and conferences. Outside of work, I enjoy cycling through Catalonia, cooking, and playing a little guitar.
 
 <p align="center">
   <a href="https://github.com/faermanj?tab=repositories">
