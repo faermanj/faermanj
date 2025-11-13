@@ -1,0 +1,1 @@
+Julio es ingeniero de software y mentor de carrera, enfocado en ayudar a las personas a tener éxito en proyectos de tecnología. Su experiencia se basa en trabajar con líderes tecnológicos globales —incluyendo Amazon, Red Hat y Borland— así como con sus clientes y socios. También es un colaborador activo en comunidades de desarrolladores, publicaciones y conferencias.
